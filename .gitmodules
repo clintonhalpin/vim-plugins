@@ -4,3 +4,6 @@
 [submodule "vim-colorschemes"]
 	path = vim-colorschemes
 	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
