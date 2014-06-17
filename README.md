@@ -12,7 +12,7 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 # Adding in the Plugins
 cd ~/.vim/bundle 
-git clone git@github.com:clintonhalpin/vim-plugins.git
+git clone git@github.com:clintonhalpin/vim-plugins.git .
 
 ```
 
