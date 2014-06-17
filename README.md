@@ -15,3 +15,7 @@ cd ~/.vim/bundle
 git clone git@github.com:clintonhalpin/vim-plugins.git
 
 ```
+
+# Add .vimrc
+
+[Vimrc File](https://gist.github.com/clintonhalpin/9160cb03c640bd57856f)
