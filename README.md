@@ -14,6 +14,9 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 cd ~/.vim/bundle 
 git clone git@github.com:clintonhalpin/vim-plugins.git .
 
+# Fetch the submodules
+git submodule update --init
+
 ```
 
 # Add .vimrc
