@@ -21,4 +21,4 @@ git submodule update --init
 
 # Add .vimrc
 
-[Vimrc File](https://gist.github.com/clintonhalpin/9160cb03c640bd57856f)
+[Vimrc File](https://gist.github.com/clintonhalpin/12f583c709a6fca7ab63)
